@@ -7,12 +7,12 @@ assignees: Hyunmok-Park
 
 ---
 
-# 1. Issue
+# 1. OBJECTIVES
 
 
 ---
 
 # 2. TO DO LIST
-- [ ]
-- [ ]
-- [ ]
+- [ ] a
+- [ ] b
+- [ ] c
